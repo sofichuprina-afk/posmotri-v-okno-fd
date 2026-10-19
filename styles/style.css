@@ -283,7 +283,6 @@ ol {
 }
 
 .more-button {
-  margin-top: 30px;
   width: 390px;
 }
 
@@ -317,7 +316,7 @@ ol {
 }
 
 .content__card-link:active {
-  background-color: rgb(84, 80, 80 / 1);
+  background-color: rgba(84, 80, 80,  1);
 }
 
 .content__card-link:focus {
